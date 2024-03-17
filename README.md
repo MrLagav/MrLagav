@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Braveen Nagendram! 👋</h1>
-<h3 align="center">Aspiring Data scientist with experience in WebDev, Product Management and Design.</h3>
+<h3 align="center">Data scientist 🧑🏽‍💻</h3>
 
-- 🔭 I’m currently freelancing on different WebDev Projects.
-- 🌱 I’m currently learning Data Science at Le Wagon - London
+- 🔭 I’m currently freelancing on different DataScience and WebDev Projects.
+- 🌱 Finished the DataScience course at LeWagon
 - 💬 Ask me about Product Management, Development and Design!
 
 <h3 align="left">Languages and Tools:</h3>
