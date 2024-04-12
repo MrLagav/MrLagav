@@ -37,6 +37,10 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue-js" width="40" height="40"/>
   </a>
+  
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="vue-js" width="40" height="40"/>
+  </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="vue-js" width="40" height="40"/>
   </a>
