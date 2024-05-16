@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Braveen Nagendram! 👋</h1>
 <h3 align="center">Python Developer🧑🏽‍💻</h3>
 
-- 🔭 I’m currently freelancing on different WebDev and DS Projects.
+- 🔭 I’m currently freelancing on different DataScience/Data Engineering projects.
 - 🌱 Finished the DataScience course at LeWagon
 - 💬 Ask me about Python development!
-- Experience in Django, FastAPI and Selenium!
+- Experience in Django, FastAPI and Python webdevelopment!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
